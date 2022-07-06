@@ -1,0 +1,11 @@
+#include <iostream> //member of standard library
+
+int main() {
+  std::cout << "Hello world!" << std::endl;
+  return(0);
+}
+
+/*  :: refers to scope resolution operator
+/* cout refers to character output (output window)
+/* After << == what ever object we want to sent left 
+*/
